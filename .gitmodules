@@ -1,0 +1,3 @@
+[submodule "GitSubmoduleShared"]
+	path = GitSubmoduleShared
+	url = https://github.com/mmahlies/GitSubmoduleShared
